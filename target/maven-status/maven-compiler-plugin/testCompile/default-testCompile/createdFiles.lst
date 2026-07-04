@@ -1,0 +1,8 @@
+com\orangehrm\pages\RequirementPage.class
+com\orangehrm\pages\DashboardPage.class
+com\orangehrm\pages\LoginPage.class
+without_framework\withoutframework.class
+com\orangehrm\pages\PIMPages.class
+com\orangehrm\tests\RequirementTest.class
+com\orangehrm\tests\LoginTest.class
+com\orangehrm\base\BaseTest.class
